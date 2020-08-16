@@ -18,9 +18,14 @@ O jogo Call of the Stars apresenta uma abordagem lúdica com objetivos educacion
   **As sprites utilizadas são de um curso online no Udemy.**
   [Link do curso](www.udemy.com/course/o-guia-definitivo-para-desenvolvimento-de-jogos-com-unity/)
   
+  ![Tela principal](/images/18.png)
   ![Desenvolvimento do jogo](/images/15.png)
   ![Desenvolvimento do jogo](/images/13.png)
   ![Jogo](/images/07.png)
+  ![Chefão](/images/14.png)
+  ![Asteroide explodindo](/images/16.png)
+  ![Escudo](/images/10.png)
+  
   
   
   > Jogo desenvolvido no meu 4º período no curso de Sistemas de Informação na Universidade Federal de Uberlândia - Campus Monte Carmelo
