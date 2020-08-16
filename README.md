@@ -25,3 +25,19 @@ as naves corretas para possibilitar a comunicação dos tripulantes com os cient
 fim de organizar ataque contra os invasores. A finalidade deste jogo é estimular a
 alfabetização de crianças por meio de estímulos visuais e reconhecimento de letras,
 grafemas e fonemas. 
+
+# O jogo conta com:
+  1. Uma história que justifica os elementos jogáveis.
+  2. Dificuldade que é incrementada ou decrementada de acordo com o nível de pontuação do jogador.
+  3. Permite um aprendizado divertido a criança.
+  4. O jogo varia de acordo com a pontuação e tempo. Novas naves inimigas aparecem.
+  5. Há naves que sua mecânica interagem com o ambiente.
+
+# Ferramenta utilizada.
+1. Unity C#.
+2. Photohop.
+
+# As imagens utilizadas são de um curso online no Udemy.
+[LINK do curso](https://www.udemy.com/course/o-guia-definitivo-para-desenvolvimento-de-jogos-com-unity/)
+
+> Jogo desenvolvido no meu 4º período no curso de Sistemas de Informação na Universidade Federal de Uberlândia - Campus Monte Carmelo
