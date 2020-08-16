@@ -9,6 +9,7 @@ O jogo Call of the Stars apresenta uma abordagem lúdica com objetivos educacion
   3. Permite um aprendizado divertido a criança.
   4. O jogo varia de acordo com a pontuação e tempo. Novas naves inimigas aparecem.
   5. Há naves que sua mecânica interagem com o ambiente.
+  6. Modo cooperativo off-line.
   
 # Ferramenta utilizada.
   1. Unity C#.
@@ -18,5 +19,7 @@ O jogo Call of the Stars apresenta uma abordagem lúdica com objetivos educacion
   [Link do curso](www.udemy.com/course/o-guia-definitivo-para-desenvolvimento-de-jogos-com-unity/)
   
   ![Desenvolvimento do jogo](/images/15.png)
+  ![Desenvolvimento do jogo](/images/07.png)
+  ![Desenvolvimento do jogo](/images/13.png)
   
   > Jogo desenvolvido no meu 4º período no curso de Sistemas de Informação na Universidade Federal de Uberlândia - Campus Monte Carmelo
