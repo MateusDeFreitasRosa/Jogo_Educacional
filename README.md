@@ -37,7 +37,7 @@ grafemas e fonemas.
 1. Unity C#.
 2. Photohop.
 
-# As imagens utilizadas são de um curso online no Udemy.
+** As imagens utilizadas são de um curso online no Udemy. **
 [LINK do curso](https://www.udemy.com/course/o-guia-definitivo-para-desenvolvimento-de-jogos-com-unity/)
 
 > Jogo desenvolvido no meu 4º período no curso de Sistemas de Informação na Universidade Federal de Uberlândia - Campus Monte Carmelo
